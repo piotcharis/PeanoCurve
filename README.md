@@ -27,7 +27,9 @@ Possible options:
 ```
 
 ```-V0```: iterative and optimized algorithm
+
 ```-V1```: iterative algorithm
+
 ```-V2```: recursive algorithm
 
 Usage examples:
