@@ -44,5 +44,3 @@ Default Values:
 | number of iterations  | 3              |
 | degree                | 3              |
 | name                  | peano.svg      |
-
-If you want to learn more about the project, you can read [this](./Ausarbeitung.pdf) file (German).
