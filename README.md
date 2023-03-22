@@ -26,6 +26,10 @@ Possible options:
 --help:      Print this help message
 ```
 
+```-V0```: iterative and optimized algorithm
+```-V1```: iterative algorithm
+```-V2```: recursive algorithm
+
 Usage examples:
 Generate curve of degree 5 with version 1 and output file 'out.svg': ```./peano -V1 -n5 -o out.svg```
 
